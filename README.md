@@ -29,5 +29,5 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently learning *PYTHON full stack development*
+- 🌱  *PYTHON full stack developer*
 - 💡 Future Goals *Wanna escape 9-5*
